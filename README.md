@@ -1,22 +1,22 @@
 # Joseph Juma – Data Analyst
 
-**Junior Data Analyst | SQL • Python • Power BI • Excel**  
+**SQL • Python • Power BI • Data Pipelines • Azure Cloud • Excel**  
 Delivering actionable insights and automated reporting solutions.
 
 ---
 
 ## 📌 About Me
 
-I am a **Computer Science graduate** with a focus on **Data Science & Analytics**.  
-I help organizations uncover insights and solve business problems using data, SQL, Python, and Power BI.
+I am a **Computer Science graduate** with over **1 year of hands-on experience** in **Data Analysis and Data Engineering**.  
 
-I specialize in:
-- Writing advanced SQL queries to extract and analyze data
-- Cleaning and transforming messy datasets with Python
-- Building interactive dashboards that drive business decisions
-- Automating reporting workflows for operational efficiency
+During this time, I have:
+- Built and automated ETL pipelines to process and store financial and transactional data
+- Cleaned, transformed, and analyzed large datasets using Python and SQL
+- Designed interactive dashboards in Power BI to support business decisions
+- Applied machine learning models to predict customer behavior and credit risk
 
-I am currently targeting **Junior Data Analyst roles** in Nairobi and open to both full-time and contract opportunities.
+I focus on delivering **actionable insights** that help organizations optimize processes and make data-driven decisions, particularly in **finance, fintech, and sustainability-driven sectors**.
+
 
 ---
 
@@ -33,7 +33,7 @@ I am currently targeting **Junior Data Analyst roles** in Nairobi and open to bo
 **Data Engineering Fundamentals**
 - PostgreSQL
 - Apache Airflow
-- Basic Azure Data Tools
+- Azure Data Tools
 
 ---
 
