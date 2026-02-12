@@ -1,97 +1,92 @@
-<h1 align="center">Joseph Juma</h1>
+# Joseph Juma – Data Analyst
 
-<p align="center">
-  <strong>Junior Data Analyst | SQL • Python • Power BI • Excel</strong><br>
-  Turning raw data into actionable business insights.
-</p>
+**Junior Data Analyst | SQL • Python • Power BI • Excel**  
+Delivering actionable insights and automated reporting solutions.
 
 ---
 
-## About Me
+## 📌 About Me
 
-I am a **Computer Science graduate (Data Science & Analytics)** focused on solving real business problems using data.
+I am a **Computer Science graduate** with a focus on **Data Science & Analytics**.  
+I help organizations uncover insights and solve business problems using data, SQL, Python, and Power BI.
 
 I specialize in:
-- Writing advanced SQL queries for data analysis
-- Cleaning and transforming messy datasets using Python
-- Building interactive dashboards in Power BI
-- Automating reporting workflows to improve efficiency
+- Writing advanced SQL queries to extract and analyze data
+- Cleaning and transforming messy datasets with Python
+- Building interactive dashboards that drive business decisions
+- Automating reporting workflows for operational efficiency
 
-I am particularly interested in applying analytics in **finance, fintech, and sustainability-driven organizations in Nairobi**.
+I am currently targeting **Junior Data Analyst roles** in Nairobi and open to both full-time and contract opportunities.
 
 ---
 
-## Core Skills
+## 🔧 Core Skills
 
-**Languages & Analysis**
+**Data Analysis**
 - SQL (Joins, Window Functions, CTEs, Aggregations)
-- Python (Pandas, NumPy, Matplotlib, Scikit-learn)
-- Advanced Excel (Pivot Tables, Power Query, Lookups)
+- Python (Pandas, NumPy, Matplotlib, Scikit‑learn)
+- Excel (Pivot Tables, Power Query, Lookups)
 
 **Visualization & Reporting**
 - Power BI (Data Modeling, DAX, KPI Dashboards)
-- Tableau
 
-**Data Engineering Foundations**
-- Azure Data Factory
-- Azure Data Lake
-- Airflow
-- dbt
-- ETL Pipeline Development
+**Data Engineering Fundamentals**
+- PostgreSQL
+- Apache Airflow
+- Basic Azure Data Tools
 
 ---
 
-## Featured Projects
+## 📁 Featured Projects
 
-### 1️⃣ Sales Analytics Dashboard
-**Business Problem:** Help a retail business track revenue trends and product performance.
+### 🔹 Credit Score Prediction
+**Business Problem:** Predict the likelihood of loan default to support better lending decisions.
 
-- Cleaned and transformed raw sales data
-- Built KPI dashboard in Power BI
-- Identified top-performing products and seasonal trends
-- Designed insights to support revenue optimization
+- Performed exploratory data analysis and feature engineering
+- Built and evaluated machine learning models
+- Identified key risk indicators for lending decisions
 
-**Tools:** Power BI, Excel, SQL
-
----
-
-### 2️⃣ Customer Churn Prediction
-**Business Problem:** Identify customers at risk of leaving.
-
-- Performed EDA and feature engineering
-- Built classification model to predict churn
-- Evaluated performance using precision, recall, ROC-AUC
-- Generated retention strategy recommendations
-
-**Tools:** Python, Pandas, Scikit-learn
+**Tools:** Python, Pandas, Scikit‑learn, XGBoost  
+📁 [View Repository](https://github.com/JosephAnalyst/Credit-SCore-Prediction)
 
 ---
 
-### 3️⃣ Loan Default Risk Analysis
-**Business Problem:** Support credit decision-making in lending institutions.
+### 🔹 Financial Data Pipeline (PostgreSQL + Airflow)
+**Business Problem:** Build a repeatable automated data workflow to load, process, and store financial data.
 
-- Analyzed financial loan dataset
-- Built predictive model for default probability
-- Identified high-risk borrower characteristics
-- Provided risk segmentation insights
+- Designed an ETL pipeline using Airflow
+- Loaded cleaned data into PostgreSQL
+- Demonstrated automated scheduling and data validation
 
-**Tools:** Python, XGBoost, SQL
-
----
-
-## Certifications
-- IBM Data Science Professional Certificate
-- HP Life Foundation – Data Science & Analytics
-- Microsoft Azure Data Fundamentals (In Progress)
+**Tools:** PostgreSQL, Apache Airflow, Python  
+📁 [View Repository](https://github.com/JosephAnalyst/Financial-Data-Pipeline-with-PostgreSQL-Airflow)
 
 ---
 
-## Connect With Me
+### 🔹 Bank Transactions Cleaning & Analysis
+**Business Problem:** Clean and standardize raw bank transactions for reliable analysis.
+
+- Cleaned raw CSV files containing bank transaction data
+- Standardized formats and prepared data for downstream analysis
+- Generated summary statistics and insights
+
+**Tools:** Python, Pandas, SQL  
+📁 [View Repository](https://github.com/JosephAnalyst/bank-transactions-cleaning)
+
+---
+
+## 📈 Additional Projects & Work
+
+Explore all my repositories for additional dashboards, analytics scripts, and exploratory data projects:  
+📂 https://github.com/JosephAnalyst?tab=repositories
+
+---
+
+## 📬 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/joseph-juma-867511355/
 - Email: josejuma397@gmail.com
-- GitHub: https://github.com/JosephAnalyst
 
 ---
 
-> Focused on delivering data-driven decisions through analytical rigor and business understanding.
+> I focus on turning raw data into insights that support better business decisions and efficiencies.
